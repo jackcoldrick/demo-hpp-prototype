@@ -1,0 +1,13 @@
+{
+    "name": "jackcoldrick/hpp-demo-prototype",
+    "authors": [
+        {
+            "name": "Jack Coldrick",
+            "email": "Jack.Coldrick@realexpayments.com"
+        }
+    ],
+    "require": {
+                "realexpayments/rxp-hpp-php": "1.0.0"
+
+    }
+}

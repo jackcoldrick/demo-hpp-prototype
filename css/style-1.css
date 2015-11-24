@@ -1,0 +1,89 @@
+/* Realex Default */
+h1.title {
+    background: #f39300;
+    color: #fff;
+}
+.btn-default {
+    background: #f39300;
+    color: #fff;
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    border-color: #fff;
+}
+.btn-default:hover, .open>.dropdown-toggle.btn-default {
+    color: #F39300;
+    background-color: #FFFFFF;
+    border-color: #F39300;
+}
+.lightbox li {
+    border-bottom: 2px solid #f39330;
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+.col-lg-6.panel.panel-default{
+    padding: 0;
+}
+.panel-default {
+    border-color: #F39300;
+}
+.panel-default>.panel-heading {
+    color: #FFF;
+    background-color: #F39300;
+    border-color: #F39300;
+}
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #9d9d9d;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: transparent;
+}
+
+h1.title.hpp{
+    margin-bottom:0;
+}
+
+
+.breadcrumb {
+    padding: 0;
+    margin-bottom: 20px;
+    list-style: none;
+    background-color: #9D9D9D;
+    border-radius: 4px;
+}
+.breadcrumb>li {
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+    padding: 15px;
+}
+.breadcrumb>li+li:before {
+    content: ""; 
+    padding:0;
+}
+.breadcrumb>.active {
+    color: #FFF;
+    background: #222;
+    font-weight: 700;
+}
+.breadcrumb a{
+    color: #222222;
+}
+.breadcrumb .badge {
+    font-size: 16px;
+    color: #222;
+    background-color: #F39300;
+    margin-right: 10px;
+}
+
+
+
+/* CODE MIRROR */
+.CodeMirror {
+    height: auto;
+}
